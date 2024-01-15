@@ -1,3 +1,5 @@
+<img scr="https://cdn.buymeacoffee.com/uploads/cover_images/2024/01/DvfFIpGA2rjiirLNXQTsul8AH5W5itLFVcuXdixF.png">
+
 # 💫 About Me:
 🪴𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: php, mySQL, Bootstrap<br>🔍𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐈𝐧: Html, Css, JavaScript<br>🔨𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠: Websites, Portfolios and My Brand.<br>
 
