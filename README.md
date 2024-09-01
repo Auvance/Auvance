@@ -1,6 +1,10 @@
 ![2  Auvance - Aakif Umar (GitHub   Twitter)](https://github.com/user-attachments/assets/be26cd82-464b-4efb-9d9a-6a0171a2cc12)
 <hr>
 
+# About Me
+A young student captivated by the digital space, blending aesthetics with functionality, diving deep into the craft & continuing to refine skills to achieve absolute perfection.
+
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/auvance) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aakif-umar-1a0621305/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22484597) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/therealAuvance) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Auvance) 
 
