@@ -2,8 +2,7 @@
 <hr>
 
 # About Me
-👤- High School Graduate blending aesthetics with functionality in the web, editing & design space.
-🖥️- Mainly Frontend Simultaneously learning the backend.
+Recent high school graduate and a professional freelancer in the web development, video editing & graphic designing industry on the lookout for projects or businesses to work for and to help your business enhance its online presence with my specialty in frontend design, create captivating designs for your ads or thumbnails or create impactful video content that will reach your business to a broader audience. 
 
 
 ## 🌐 Socials:
