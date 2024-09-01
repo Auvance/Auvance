@@ -2,7 +2,8 @@
 <hr>
 
 # About Me
-A young student captivated by the digital space, blending aesthetics with functionality, diving deep into the craft & continuing to refine skills to achieve absolute perfection.
+👤- High School Graduate blending aesthetics with functionality in the web, editing & design space.
+🖥️- Mainly Frontend Simultaneously learning the backend.
 
 
 ## 🌐 Socials:
