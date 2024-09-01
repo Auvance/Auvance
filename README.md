@@ -23,11 +23,11 @@ Recent high school graduate and a professional freelancer in the web development
 
 
 
-## Databases
+## Databases (Currently Not Learnt)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
-## Web Design 
+## Web Design (Currently Not Learnt)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
