@@ -16,7 +16,8 @@ Recent high school graduate and a professional freelancer in the web development
 
 
 ## Libraries 
-(Not Learnt: TS, REACT, C, C++, PHP)
+(Not Learnt: TS, REACT, C, C++, PHP) 
+<br>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
 
 
